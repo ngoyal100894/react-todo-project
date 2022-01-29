@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ngoyal100894/react-todo-project/static/css/main.dc0cb919.chunk.css",
+    "main.js": "/ngoyal100894/react-todo-project/static/js/main.a11926d3.chunk.js",
+    "main.js.map": "/ngoyal100894/react-todo-project/static/js/main.a11926d3.chunk.js.map",
+    "runtime-main.js": "/ngoyal100894/react-todo-project/static/js/runtime-main.ec30361e.js",
+    "runtime-main.js.map": "/ngoyal100894/react-todo-project/static/js/runtime-main.ec30361e.js.map",
+    "static/js/2.95acefee.chunk.js": "/ngoyal100894/react-todo-project/static/js/2.95acefee.chunk.js",
+    "static/js/2.95acefee.chunk.js.map": "/ngoyal100894/react-todo-project/static/js/2.95acefee.chunk.js.map",
+    "index.html": "/ngoyal100894/react-todo-project/index.html",
+    "static/css/main.dc0cb919.chunk.css.map": "/ngoyal100894/react-todo-project/static/css/main.dc0cb919.chunk.css.map",
+    "static/js/2.95acefee.chunk.js.LICENSE.txt": "/ngoyal100894/react-todo-project/static/js/2.95acefee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec30361e.js",
+    "static/js/2.95acefee.chunk.js",
+    "static/css/main.dc0cb919.chunk.css",
+    "static/js/main.a11926d3.chunk.js"
+  ]
+}
